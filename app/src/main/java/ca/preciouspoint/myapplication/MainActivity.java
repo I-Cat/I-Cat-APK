@@ -1,4 +1,4 @@
-package com.example.myapplication;
+package ca.preciouspoint.myapplication;
 
 import android.os.Bundle;
 
